@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 687253aa37edb034daf1144622b51c27
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Arm_IK_L
+    100002: Arm_IK_R
+    100004: Armature
+    100006: Bob
+    100008: Bone
+    100010: Chest
+    100012: ElBow_L
+    100014: ElBow_R
+    100016: Foot_L
+    100018: Foot_R
+    100020: Head
+    100022: Knee_L
+    100024: Knee_R
+    100026: Leg_IK_L
+    100028: Leg_IK_R
+    100030: Lower_Arm_L
+    100032: Lower_Arm_R
+    100034: Lower_Leg_L
+    100036: Lower_Leg_R
+    100038: //RootNode
+    100040: Stomach
+    100042: Upper_Arm_L
+    100044: Upper_Arm_R
+    100046: Upper_Leg_L
+    100048: Upper_Leg_R
+    400000: Arm_IK_L
+    400002: Arm_IK_R
+    400004: Armature
+    400006: Bob
+    400008: Bone
+    400010: Chest
+    400012: ElBow_L
+    400014: ElBow_R
+    400016: Foot_L
+    400018: Foot_R
+    400020: Head
+    400022: Knee_L
+    400024: Knee_R
+    400026: Leg_IK_L
+    400028: Leg_IK_R
+    400030: Lower_Arm_L
+    400032: Lower_Arm_R
+    400034: Lower_Leg_L
+    400036: Lower_Leg_R
+    400038: //RootNode
+    400040: Stomach
+    400042: Upper_Arm_L
+    400044: Upper_Arm_R
+    400046: Upper_Leg_L
+    400048: Upper_Leg_R
+    4300000: Bob
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Bob
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Bone
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Stomach
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Upper_Leg_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Upper_Leg_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lower_Leg_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lower_Leg_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: runman3(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Armature
+      position: {x: 0, y: 4.64356279, z: 0}
+      rotation: {x: -.707106888, y: 0, z: -0, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone
+      position: {x: -0, y: 0, z: -4.64356279}
+      rotation: {x: 0, y: 0, z: .707106888, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Arm_IK_L
+      position: {x: .222113878, y: 3.50003433, z: 6.16976452}
+      rotation: {x: 0, y: 0, z: 1, w: 4.37091323e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Arm_IK_R
+      position: {x: .222113341, y: -3.50003433, z: 6.16976452}
+      rotation: {x: 0, y: 0, z: 1, w: 4.37091323e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ElBow_L
+      position: {x: -1.51741529, y: 1.50784767, z: 5.86428738}
+      rotation: {x: .707106829, y: -3.0907028e-08, z: -.707106829, w: -3.0907028e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ElBow_R
+      position: {x: -1.51741552, y: -1.50784743, z: 5.86428738}
+      rotation: {x: .707106829, y: -3.0907028e-08, z: -.707106829, w: -3.0907028e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Knee_L
+      position: {x: -1.82790792, y: .922985673, z: 2.13579202}
+      rotation: {x: .707106829, y: -3.0907028e-08, z: -.707106829, w: -3.0907028e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Knee_R
+      position: {x: -1.82790816, y: -.922985435, z: 2.13579202}
+      rotation: {x: .707106829, y: -3.0907028e-08, z: -.707106829, w: -3.0907028e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Leg_IK_L
+      position: {x: .328985035, y: .740216136, z: .704958916}
+      rotation: {x: 0, y: 0, z: 1, w: 4.37091323e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Foot_L
+      position: {x: -1.15489406e-07, y: 2.48376839e-08, z: 0}
+      rotation: {x: 4.39290773e-08, y: .981055677, z: -1.52625518e-07, w: -.193726078}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Leg_IK_R
+      position: {x: .328984916, y: -.740216136, z: .704958916}
+      rotation: {x: 0, y: 0, z: 1, w: 4.37091323e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Foot_R
+      position: {x: -1.22929166e-07, y: 2.48376839e-08, z: 0}
+      rotation: {x: 2.44021088e-08, y: .981055677, z: -2.51512631e-07, w: -.193726078}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Stomach
+      position: {x: .146215439, y: -1.10389591e-08, z: 4.64356279}
+      rotation: {x: .733947635, y: -1.07037064e-08, z: -.679206073, w: 4.83110796e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Chest
+      position: {x: -1.89010763, y: 1.42699164e-07, z: 7.53715135e-09}
+      rotation: {x: 3.23167129e-08, y: -.127523094, z: 5.39291589e-09, w: .991835594}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Head
+      position: {x: -1.55837119, y: 1.17653748e-07, z: 2.1424496e-08}
+      rotation: {x: 7.65673889e-08, y: .142935261, z: -9.49925916e-09, w: .989732087}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Upper_Arm_L
+      position: {x: -2.79652429, y: -.795046687, z: -.29311049}
+      rotation: {x: .469684571, y: .720381677, z: -.437574238, w: -.262631774}
+      scale: {x: 1, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: Lower_Arm_L
+      position: {x: -1.31906247, y: 9.59148068e-08, z: -1.73967152e-07}
+      rotation: {x: -.00982709229, y: -.00614940468, z: -.00289142737, w: .999928653}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Upper_Arm_R
+      position: {x: -2.79652429, y: .795047164, z: -.29311049}
+      rotation: {x: -.317572027, y: .472596794, z: .697906435, w: -.434427142}
+      scale: {x: .999999881, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Lower_Arm_R
+      position: {x: -1.31906235, y: 2.32099154e-07, z: -2.45579741e-07}
+      rotation: {x: -.0141458269, y: -.00613688258, z: -.00291810813, w: .999876857}
+      scale: {x: 1, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Upper_Leg_L
+      position: {x: .190281957, y: -.502615869, z: -.0402306616}
+      rotation: {x: .702297807, y: .711180329, z: .0218426716, w: .0228746869}
+      scale: {x: 1, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Lower_Leg_L
+      position: {x: -2.1003654, y: 1.08221123e-07, z: 2.08582995e-09}
+      rotation: {x: -.0163989812, y: .114883065, z: -.0243888348, w: .992944181}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Upper_Leg_R
+      position: {x: .190282017, y: .502615869, z: -.0402306505}
+      rotation: {x: -.697896659, y: .706834674, z: -.0814832225, w: .0817659944}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Lower_Leg_R
+      position: {x: -2.1003654, y: 1.79349584e-07, z: -1.08857439e-08}
+      rotation: {x: -.0305520091, y: .116985425, z: .010360525, w: .992609501}
+      scale: {x: 1, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Bob
+      position: {x: 0, y: 0, z: -4.64356327}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: .891052485, y: .891052485, z: .891052485}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

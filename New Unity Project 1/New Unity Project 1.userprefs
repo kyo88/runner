@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controller.cs">
+    <Files>
+      <File FileName="Assets\Scripts\EnemyController.cs" Line="72" Column="95" />
+      <File FileName="Assets\Scripts\CameraManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controller.cs" Line="48" Column="49" />
+      <File FileName="Assets\Scripts\CharactorController.cs" Line="134" Column="38" />
+      <File FileName="Assets\Scripts\ZombieController.cs" Line="35" Column="28" />
+      <File FileName="Assets\Scripts\CointController.cs" Line="62" Column="39" />
+      <File FileName="Assets\Scripts\EnemyController.cs" Line="53" Column="1" />
+      <File FileName="Assets\Scripts\WallController.cs" Line="15" Column="37" />
+      <File FileName="Assets\Scripts\MapController.cs" Line="193" Column="3" />
+      <File FileName="Assets\Scripts\GameConfig.cs" Line="32" Column="25" />
+      <File FileName="Assets\Scripts\WayController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
